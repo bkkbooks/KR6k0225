@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0225/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 沙彌尼律儀要略
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X60/X60n1122.xml
+    old_id: X60n1122
+hash: sha256:cab7a2d64d6d33de2ccb4bc1244f26f9331827ed2bc15e52f42810292ede914c
