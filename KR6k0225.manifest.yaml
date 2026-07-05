@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0225_000.yaml, hash: 'sha256:cab7a2d64d6d33de2ccb4bc1244f26f9331827ed2bc15e52f42810292ede914c'}
-  - {seq: 1, filename: KR6k0225_001.yaml, hash: 'sha256:6f877ce6df27613382ab2c4f67416bea298244675b1ccabdb53f74a5d2061f7d'}
+  - {seq: 1, filename: KR6k0225_001.yaml, hash: 'sha256:57286522ab9786ed28ce1f743c0248c11ddda7b28bca3e92b7a2e5db68b1b6e8'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6k0225_001.markers.yaml, hash: 'sha256:986ffcced9db755b4b92a0753fa03eae46bc0dd0ca9dea37119eb9c736b3341b'}
+  - {seq: 0, role: markers, filename: assets/KR6k0225_000.markers.yaml, hash: 'sha256:b2aa4246d2eb72733fec97106d7ed14266691530aff9cb5aff9b0763a3e712b1'}
+  - {seq: 1, role: markers, filename: assets/KR6k0225_001.markers.yaml, hash: 'sha256:0f48028466d164ba9cfc5c1195fe80b53f47a549f680efb0cd8fe2516ec8a85c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -426,7 +427,4 @@ table_of_contents:
   label: 說戒法儀
   type: mulu
   level: 1
-hash: sha256:a4809ee7b09fcd53c206cbed5339f9484cb14a05b25ed69f3bf5411615ce9399
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:5f4eb94efc32d387ab165a75ce927f8ab25a2c2c8139a55935a4b8c19a747444
